@@ -9,3 +9,4 @@ Each subfolder contains a self-contained project with code, documentation, and r
 ## Content
 - `text-summarizer/` – TP project: fine-tuning Qwen2.5 using PEFT (LoRA) and quantization to reduce VRAM usage.  
 - `English-French-translator/` – TP project: translation model based on seq2seq architecture.
+- `RL-fine-tuning/` - TP project: preference-based reinforcement learning fine-tuning of Qwen2.5 using DPO and GRPO for reasoning tasks.
